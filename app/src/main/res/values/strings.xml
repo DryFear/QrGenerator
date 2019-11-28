@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ShareQR</string>
+    <string name="generate">GENERATE</string>
 </resources>
